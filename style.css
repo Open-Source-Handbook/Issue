@@ -10,7 +10,7 @@
 
 
 header {
-    background-color: rgb(121, 8, 8);
+    background-color: rgb(7, 95, 133);
     width: 100%;
     position: fixed;
     z-index: 999;
@@ -30,7 +30,7 @@ header {
 }
 
 .navigation a{
-    color: rgb(121, 8, 8);
+    color: rgb(7, 95, 133);
     text-decoration: none;
     font-size: 1.1em;
     font-weight: 500;
@@ -38,7 +38,7 @@ header {
 }
 
 .navigation a:hover{
-    color: rgb(121, 8, 8);
+    color: rgb(7, 95, 133);
 }
 
 section {
@@ -65,25 +65,25 @@ section {
 .main h2 span {
     display: inline-block;
     margin-top: 10px;
-    color: rgb(121, 8, 8);
+    color: rgb(7, 95, 133);
     font-size: 3em;
     font-weight: 600;
-    padding-left: 300px
+    padding-left: 200px
 }
 
 .main h3 {
-    color: rgb(121, 8, 8);
+    color: rgb(7, 95, 133);
     font-size: 2em;
     font-weight: 700;
     letter-spacing: 1px;
     margin-top: 10px;
     margin-bottom: 30px;
-    padding-left: 320px
+    padding-left: 50px
 }
 
 .main-btn {
     color: #fff;
-    background-color: rgb(121, 8, 8);
+    background-color: rgb(7, 95, 133);
     text-decoration: none;
     font-size: 1.1em;
     font-weight: 600;
@@ -96,7 +96,7 @@ section {
 }
 
 .main-btn:hover {
-    background-color: rgb(121, 8, 8);
+    background-color: rgb(50, 163, 211);
     transform: scale(1.1);
 }
 
@@ -109,7 +109,7 @@ section {
 .title {
     display: flex;
     justify-content: center;
-    color: rgb(121, 8, 8);
+    color: rgb(7, 95, 133);
     font-size: 2.2em;
     font-weight: 800;
     margin-bottom: 30px;
@@ -137,7 +137,7 @@ section {
 }
 
 .card .icon {
-    color: rgb(121, 8, 8);
+    color: rgb(7, 95, 133);
     font-size: 8em;
     text-align: center;
 }
@@ -147,14 +147,14 @@ section {
 }
 
 .info h3{
-    color: rgb(121, 8, 8);
+    color: rgb(7, 95, 133);
     font-size: 1.2em;
     font-weight: 700;
     margin: 10px;
 }
 
 .projects {
-    background-color: rgb(121, 8, 8);
+    background-color: rgb(7, 95, 133);
 }
 
 .projects .content{
@@ -190,7 +190,7 @@ section {
 
 .project-category {
     font-size: 0.8em;
-    color: #000;
+    color: #0A82B6;
 }
 
 .project-title {
@@ -203,11 +203,11 @@ section {
 
 .more-details {
     text-decoration: none;
-    color: rgb(121, 8, 8);
+    color: rgb(7, 95, 133);
 }
 
 .more-details:hover {
-    color: rgb(121, 8, 8);
+    color: rgb(7, 95, 133);
 }
 
 .contact .icon{
@@ -215,7 +215,7 @@ section {
 }
 
 .contact .info h3 {
-    color: #000;
+    color: rgb(7, 95, 133);
 }
 
 .contact .info p {
@@ -223,7 +223,7 @@ section {
 }
 
 .footer {
-    background-color: rgb(121, 8, 8);
+    background-color: rgb(7, 95, 133);
     color: #fff;
     padding: 2em;
     display: flex;
